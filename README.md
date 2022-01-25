@@ -1,2 +1,2 @@
 # pagina_tributo
-esta es una pagina sencilla tipo tributo. Aca se trabaja solo html y css.
+This is a simple tribute type page. Only html and css are used here.
